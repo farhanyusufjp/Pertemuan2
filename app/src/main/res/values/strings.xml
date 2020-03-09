@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pertemuan2</string>
+    <string name="btn1">KIRIM</string>
+    <string name="btn2">Kembali</string>
+    <string name="text1"></string>
+    <string name="text2"></string>
+
+</resources>
