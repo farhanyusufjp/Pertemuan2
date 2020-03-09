@@ -14,7 +14,7 @@ public static final String EXTRA_DATA="extra_data";
 
 String data;
 EditText DataInput;
-Button Kirim;koko
+Button Kirim;
 
 
 
